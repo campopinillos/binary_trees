@@ -1,0 +1,15 @@
+### Emacs ###
+# -*- mode: gitignore; -*-
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+*.elc
+auto-save-list
+tramp
+.\#*
+.DS_Store
+.vscode
+
+# To avoid main files
+*-main.c
