@@ -1,9 +1,11 @@
 #include "binary_trees.h"
 /**
- * binary_tree_preorder - Function that goes through a binary tree using pre-order traversal
- * @node: Node
+ * binary_tree_preorder - Function that goes in pre-order traversal
+ * @tree: Binary tree
+ * @func: print function
  *
- * Description: Function that goes through a binary tree using pre-order traversal
+ * Description: Function that goes through a binary
+ * tree using pre-order traversal
  * Return: Nothing void
  */
 void binary_tree_preorder(const binary_tree_t *tree, void (*func)(int))
