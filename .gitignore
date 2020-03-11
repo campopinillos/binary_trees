@@ -13,3 +13,4 @@ tramp
 
 # To avoid main files
 *-main.c
+13-nodes
